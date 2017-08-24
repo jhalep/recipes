@@ -1,0 +1,12 @@
+Ingredients:
+ - pizza dough
+ - Mushrooms
+ - Tomato paste
+ - Corn
+ - Tomato in slices
+ - Cheese
+
+Directions:
+  1. Start adding tomato paste to the pizza dough
+  2. Put the rest of ingredients on top of the pizza however you like
+  3. Put in the oven for 10 minutes
